@@ -12,3 +12,4 @@ Chocolate chips
 Eggs
 Water
 Butter
+Cinnamon
