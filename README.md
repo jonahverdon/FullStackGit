@@ -13,4 +13,5 @@ Eggs
 Water
 Butter
 Cinnamon
-Toenails
+yogurt
+dairy (milk)
