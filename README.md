@@ -17,3 +17,5 @@ Toenails
 Chicken
 Bricks
 Cabbage
+yogurt
+dairy (milk)
