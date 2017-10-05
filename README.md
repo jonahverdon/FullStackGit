@@ -13,5 +13,9 @@ Eggs
 Water
 Butter
 Cinnamon
+Toenails
+Chicken
+Bricks
+Cabbage
 yogurt
 dairy (milk)
