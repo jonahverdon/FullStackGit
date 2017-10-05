@@ -15,5 +15,8 @@ Butter
 Cinnamon
 Toenails
 Orphan Tears (perferably fermented for extra kick)
+Chicken
 Bricks
 Cabbage
+yogurt
+dairy (milk)
